@@ -1,7 +1,6 @@
-/**
- * Create an object constructor function for the Backpack object type.
- * @link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
- */
+
+//Create an object constructor function for the Backpack object type.
+ 
 
 function Backpack(
     name,
